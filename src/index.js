@@ -10,6 +10,7 @@ import 'antd/dist/antd.css';
 moment.locale('zh-cn');
 
 ReactDOM.render(
+  // 严格模式
   <React.StrictMode>
     <App />
   </React.StrictMode>,
